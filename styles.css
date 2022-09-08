@@ -1,6 +1,7 @@
 .menu {
   /* add correct code to place the menu correctly.*/
-
+flex:auto;
+justify-content: center;
   background-color: black;
   font-size: 30px;
   font-family: sans-serif;
@@ -13,7 +14,7 @@ body {
 .grid {
   /* add correct code to place the grid elements 
   one beside the other equally.   */
-
+flex:auto;
   flex-wrap: wrap;
   font-family: sans-serif;
 }
